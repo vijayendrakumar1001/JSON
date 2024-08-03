@@ -1,0 +1,36 @@
+    {
+  "name": "vullaganti vijayendra Kumar",
+  "contact": {
+    "email": "vijayendrakumar1001@gmail.com",
+    "phone": "+91 7793959508",
+    "address": "Ongole,Andhra Pradhesh India"
+  },
+  "summary": "Highly motivated B. Tech CSE graduate with a strong foundation in computer science and a keen interest in Artificial Intelligence and Machine Learning. Successfully completed    training program in AI and ML from IBM, gaining hands-on experience in implementing various algorithms and building intelligent systems. ",
+  "experience": [
+    {
+      "job_title": "Data Analyst",
+      "company": "IBM",
+      "location": "Remote",
+      "start_date": "June ,2023",
+      "end_date": "July,2023",
+      "responsibilities": [
+        "Learned basics of python",
+        "Worked on basic ML Alogorithms"
+      ]
+    },
+   
+  "education": [
+    {
+      "degree": "B.Tech. in Computer Science with a specialization of Data science,artifical intelligence and ML",
+      "institution": "Lovely Professional University ,Punjab",
+      "graduation_year": "2025"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "Python",
+    "SQL",
+    "Java"
+  ]
+}
+
